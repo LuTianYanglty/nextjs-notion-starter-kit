@@ -14,7 +14,7 @@ export default siteConfig({
   author: '-4°',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Hi，这里是-4°的小小网站！',
 
   // social usernames (optional)
   
